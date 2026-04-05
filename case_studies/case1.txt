@@ -1,0 +1,12 @@
+Project Name: Logistics ERP Integration
+Client Industry: Logistics and Supply Chain
+Pain Points: Manual CSV transfers between WMS and ERP, 
+data errors, overnight batch delays, high order volume
+Current Tech Stack: SAP ERP, Oracle WMS, on-premise servers
+Solution: REST API middleware integration layer, 
+real-time event triggers using Apache Kafka,
+Azure Integration Services for orchestration
+Recommended Architecture: SAP → Kafka → MuleSoft → Oracle WMS
+Outcome: Eliminated manual transfers, 99.9% data accuracy,
+sync time reduced from 3 hours to 5 seconds
+Timeline: Delivered in 10 weeks

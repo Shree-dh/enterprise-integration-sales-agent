@@ -1,0 +1,14 @@
+Project Name: Multi-System CRM Integration
+Client Industry: Manufacturing
+Pain Points: Salesforce disconnected from ERP, 
+sales team using manual spreadsheets, no single 
+view of customer data across systems
+Current Tech Stack: Salesforce CRM, SAP ERP, 
+Oracle Database, Excel spreadsheets
+Solution: MuleSoft integration platform,
+bi-directional sync between Salesforce and SAP,
+unified customer dashboard
+Recommended Architecture: Salesforce → MuleSoft → SAP ERP → Dashboard
+Outcome: Single source of truth for customer data,
+sales team productivity increased by 40%
+Timeline: Delivered in 12 weeks

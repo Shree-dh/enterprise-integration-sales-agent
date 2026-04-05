@@ -1,0 +1,12 @@
+Project Name: Retail Inventory Sync Automation
+Client Industry: Retail and E-Commerce
+Pain Points: Disconnected inventory systems, manual stock 
+updates, no real-time visibility, overselling issues
+Current Tech Stack: Shopify, legacy SQL database, 
+Excel for reporting
+Solution: REST API layer with Azure Logic Apps,
+automated inventory sync, real-time dashboard
+Recommended Architecture: Shopify → Azure Logic Apps → SQL → PowerBI
+Outcome: Real-time inventory sync across all channels,
+95% reduction in overselling errors
+Timeline: Delivered in 8 weeks

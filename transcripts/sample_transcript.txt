@@ -1,0 +1,36 @@
+Client Meeting Transcript
+Date: March 27, 2026
+Participants: John Smith (Client), Sarah (Sales Engineer)
+
+Sarah: Thanks for joining today John. Can you tell me about 
+the challenges you're currently facing?
+
+John: Sure. Our biggest problem is that our warehouse 
+management system doesn't talk to our ERP system at all. 
+Every night, someone manually exports a CSV file and 
+uploads it to SAP. It takes about 3 hours and we get 
+data errors almost every week.
+
+Sarah: What systems are you currently using?
+
+John: We use SAP for our ERP, Oracle for our warehouse 
+management, and we recently started using Salesforce 
+for our sales team. Everything is completely disconnected.
+
+Sarah: What would be your ideal outcome if we solved this?
+
+John: We want real-time data sync between all three systems. 
+No more manual work, no more errors. Ideally everything 
+talks to each other automatically. We also want a 
+dashboard to monitor the data flow.
+
+Sarah: How many transactions are we talking about daily?
+
+John: Around 5,000 orders per day. During peak season 
+it goes up to 15,000. The manual process just cannot 
+handle that volume anymore.
+
+Sarah: Any budget or timeline constraints?
+
+John: We need this done within 3 months. Budget is 
+flexible if the solution is solid.
